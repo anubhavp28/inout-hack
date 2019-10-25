@@ -13,7 +13,7 @@ cd inout-hack
 npm install
 ```
 
-2. Run the server
+2. Run the server from Hacktober IIIT K Fest
 
 `npm start`
 
